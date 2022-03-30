@@ -35,6 +35,12 @@ Turn the sounds of souls around you into music with Seraphine, the Starry-Eyed S
 
 # ABILITIES:
 
+**Passive - Stage Presence**
+
+Every third basic ability Seraphine casts will echo, automatically casting a second time. Additionally, whenever she casts an ability nearby an ally, she will create a Note. Each Note gives her basic attacks more attack range and deal additional magic damage, consuming the Note.
+
+**Q - High Note**
+Seraphine projects a pure note, dealing magic damage that's increased by the target's missing health percentage.
 
 
 
