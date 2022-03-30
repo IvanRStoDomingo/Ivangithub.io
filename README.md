@@ -25,6 +25,9 @@ PERFECT EXECUTION
 Akali leaps in a direction, damaging enemies she strikes. Re-cast: Akali dashes in a direction, executing all enemies she strikes.
 
 # NO 2 - SERAPHINE 
+
+![SERAPHINE](https://user-images.githubusercontent.com/102655245/160816416-f1d47cde-5afc-4348-9771-781f4fe82442.jpg)
+
 Turn the sounds of souls around you into music with Seraphine, the Starry-Eyed Songstress. Learn more about her magical auditory synesthesia and musical abilities.
 "ONE DAY, THE MUSIC WILL STOP. BETTER DANCE WHILE YOU CAN!"
 
