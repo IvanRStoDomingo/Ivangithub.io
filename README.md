@@ -30,21 +30,44 @@ Turn the sounds of souls around you into music with Seraphine, the Starry-Eyed S
 
 # ABILITIES:
 
-**Passive - Stage Presence**
+**Passive - STAGE PRESENCE**
 
 Every third basic ability Seraphine casts will echo, automatically casting a second time. Additionally, whenever she casts an ability nearby an ally, she will create a Note. Each Note gives her basic attacks more attack range and deal additional magic damage, consuming the Note.
 
-**Q - High Note**
+**Q - HIGH NNOTE**
 Seraphine projects a pure note, dealing magic damage that's increased by the target's missing health percentage.
 
-**W - Surround Sound**
+**W - SURROUND SOUND**
 Seraphine surrounds her nearby allies in a song, granting herself and her allies movement speed and a shield. If Seraphine is already shielded, she can heal her nearby allies, restoring health based on how many allies are near her.
 
-**E - Beat Drop**
+**E - BEAT DROP**
 Seraphine unleashes a heavy soundwave, dealing magic damage to enemies in a line and slowing them. Enemies that are already slowed are rooted, and already rooted enemies are stunned.
 
-**R - Encore**
+**R - ENCORE**
 Seraphine takes the stage, projecting a captivating force that charms enemies and deals magic damage. Any champions struck (allies included) become part of the performance, extending the range of the ability and granting allies maximum Notes.
+
+# NO 3 - KAI'SA
+
+![KAISA](https://user-images.githubusercontent.com/102655245/160821044-b83a74ab-7fe4-4617-a24b-ce55ab8dc995.jpg)
+
+Claimed by the Void when she was only a child, Kai'Sa managed to survive through sheer tenacity and strength of will. Her experiences have made her a deadly hunter and, to some, the harbinger of a future they would rather not live to see. Having entered into an uneasy symbiosis with a living Void carapace, the time will soon come when she must decide whether to forgive those mortals who would call her a monster, and defeat the coming darkness together… or simply to forget, as the Void consumes the world that left her behind.
+
+# ABILITIES:
+
+**PASSIVE - SECOND SKIN**
+Kai'Sa's basic attacks stack Plasma, dealing increasing bonus magic damage. Allies' immobilizing effects help stack Plasma. Additionally, Kai'Sa's item purchases upgrade her basic spells to have more powerful properties.
+
+**Q - ICATHIAN RAIN**
+Kai'Sa shoots a swarm of missiles that seek out nearby targets. Living Weapon: Icathian Rain is upgraded to shoot more missiles
+
+**W - VOID SEEKER**
+Kai'Sa shoots a long range missile, marking enemies with her passive. Living Weapon: Void Seeker is upgraded to apply more passive marks and reduce cooldown on champion hit.
+
+**E - SUPERCHARGE**
+Kai'Sa briefly increases her Move Speed, then increases her Attack Speed. Living Weapon: Supercharge is upgraded to briefly grant Invisibility
+
+**R - KILLER INSTINCT**
+Kai'Sa dashes near an enemy champion.
 
 
 
