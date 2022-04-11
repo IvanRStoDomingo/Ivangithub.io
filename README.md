@@ -1,8 +1,11 @@
 # Hello I am Ivan R. Sto. Domingo
 
 **I am 15 years old**
+
 **I study at Ateneo De Naga Junior High School**
+
 **My moto is "time is gold"**
+
 **My Hobbies are**
 - playing league of legends
 - playing badminton
