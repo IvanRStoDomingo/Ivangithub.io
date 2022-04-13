@@ -16,15 +16,15 @@
 - watching movies, series and anime
 
 **Things I like**
--I like cordon blue
--I-like I like k-pop
--I like avatar the last air bender
--my favorite coloris green 
--my favorite animal is ostrich 
--my favorite fruit is apple
--my favorite vagetable is eggplant 
--my favorite game is league of legends
--my favorite anime is black clover
+- I like cordon blue
+- I-like I like k-pop
+- I like avatar the last air bender
+- My favorite coloris green 
+- My favorite animal is ostrich 
+- My favorite fruit is apple
+- My favorite vagetable is eggplant 
+- My favorite game is league of legends
+- My favorite anime is black clover
 
 
 
