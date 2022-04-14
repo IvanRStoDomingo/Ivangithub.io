@@ -26,6 +26,13 @@
 - My favorite game is league of legends
 - My favorite anime is black clover
 
+**SOCIALS**
+
+[Facebook](https://www.facebook.com/ivanresocostodomingo)
+
+[Instagram](https://www.instagram.com/ivanstodomingo24/)
+
+
 
 
 
